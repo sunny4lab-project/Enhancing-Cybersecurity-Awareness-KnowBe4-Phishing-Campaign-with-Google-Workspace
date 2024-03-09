@@ -24,3 +24,11 @@ As part of our cybersecurity awareness initiative, this project aims to simulate
 ➡️ KnowBe4 Account.
   
 </details>
+
+#**Project Steps**
+<details><summary>Details Here</summary>
+
+**Step 1:** *Integration Setup*
+👨‍💻 Log into your account and Click on the Account user ID at the top to the right and select "Account Settings". Then scroll down and click "Phishing" to the left and select Direct Message Injecting (DMI), then, *click the Add DMI Connection*
+
+</details>
