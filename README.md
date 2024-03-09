@@ -1,4 +1,4 @@
-# Enhancing Cybersecurity Awareness KnowBe4 Phishing Campaign with Google Workspace
+#  KnowBe4 Phishing Campaign Integration with Google Workspace
 
 **Project Overview:**
 
@@ -13,3 +13,14 @@ As part of our cybersecurity awareness initiative, this project aims to simulate
 ▶️ *Analyze campaign results to assess susceptibility to phishing attacks and identify areas for improvement*.
 
 ▶️ *Develop and deliver educational resources and training modules to enhance cybersecurity awareness*.
+
+***Prerequisite*** 
+<details><summary>Click Here for Details</summary>
+  
+  *You will need the following account set up before proceeding with the project*
+  
+➡️Google Workspace Domain account 
+  
+➡️ KnowBe4 Account.
+  
+</details>
