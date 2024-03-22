@@ -22,7 +22,7 @@ As part of the cybersecurity awareness initiative, this project aims to simulate
   
   *You will need the following account set up before proceeding with the project*
   
-➡️Google Workspace Domain account 
+➡️Google Workspace Domain account or any other domain account would do.
   
 ➡️ KnowBe4 Account.
   
