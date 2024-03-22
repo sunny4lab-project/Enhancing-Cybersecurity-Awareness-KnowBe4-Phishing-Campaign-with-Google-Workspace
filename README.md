@@ -31,7 +31,8 @@ As part of the cybersecurity awareness initiative, this project aims to simulate
 # **Project Steps**
 <details><summary>Details Here</summary>
 
-**Step 1:** *Integration Setup*
+**Step 1:**  **Integration Setup**
+
 👨‍💻 Log into your account Click on the Account user ID at the top to the right and select "Account Settings". 
 
 *<img width="950" alt="Account Settings" src="https://github.com/sunny4lab-project/Enhancing-Cybersecurity-Awareness-KnowBe4-Phishing-Campaign-with-Google-Workspace/assets/139194279/50da7381-db36-4d55-a9ff-e348954cc089">*
@@ -45,8 +46,8 @@ Authorize Integration:
 - Follow the prompts to authorize the integration between KnowBe4 and Google Workspace.
 - You may need to log in to your Google Workspace administrator account and grant permission for KnowBe4 to access your Google Workspace data.
 - A couple of things you will need for this integration to be complete.
--      Client ID for KnowBe4 that looks like this  (1170*******************) and the following scopes or permissions:
-                                                                              ↙️
+- Client ID for KnowBe4 that looks like this  (1170*******************) and the following scopes or permissions:
+  -      
                      https://mail.google.com/
                      https://www.googleapis.com/auth/gmail.insert
                      https://www.googleapis.com/auth/gmail.modify
@@ -54,7 +55,7 @@ Authorize Integration:
 *<img width="713" alt="Google Workspce intergration" src="https://github.com/sunny4lab-project/Enhancing-Cybersecurity-Awareness-KnowBe4-Phishing-Campaign-with-Google-Workspace/assets/139194279/d58d815a-2c92-4b77-ad9a-d080d4394556">*
 
 -     You need a Domain name
-      Enter an email address from your Google Workspace domain:
+      Enter an email address from your Google Workspace domain, preferably the admin email address.
 
     
 *<img width="716" alt="Add Domain name and an email from your dmain" src="https://github.com/sunny4lab-project/Enhancing-Cybersecurity-Awareness-KnowBe4-Phishing-Campaign-with-Google-Workspace/assets/139194279/59e65a83-7b50-4933-9865-df2f0ae061c1">*
@@ -73,4 +74,7 @@ The final stage of this integration is to add API Client ID to your settings. So
 
 After configuring the integration settings, verify that the integration between KnowBe4 and Google Workspace is successfully established.
 You may be provided with confirmation messages or status indicators indicating that the integration is active.
+
+Then, Navigate to the home screen click the navigation panel on the top left, click on *Dashboard*, and then scroll down to select your phishing test platform. You could also Start your Automated Security Awareness Program if you prefer.
+
 </details>
